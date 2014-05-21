@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/QPManifest/QPManifest.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/dsl.Learnings.one/dsl.Learnings.one.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/dsl.Learnings.one/sandbox/dsl.Learnings.one.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/dsl.learnings.two/dsl.learnings.two.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Learn.build/Learn.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Library/Library.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
+

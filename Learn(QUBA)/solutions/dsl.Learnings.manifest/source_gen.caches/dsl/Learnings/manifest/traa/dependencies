@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="dsl.Learnings.manifest.traa.qpclass" file="qpclass.java">
+    <classNode dependClassName="Library.newlib.qpManifest" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+

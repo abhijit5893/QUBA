@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="jr99" modelUID="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" version="-1" />
+    </dependencies>
+    <rename id="jr99.2879066684745170211" type="CONCEPT" from="DDLOperations" to="DDL" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="jr99" modelUID="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" version="0" />
+    </dependencies>
+    <rename id="jr99.2879066684745170882" type="CONCEPT" from="Filter" to="FilterBy" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="jr99" modelUID="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" version="1" />
+    </dependencies>
+    <rename id="jr99.2879066684745200497" type="PROPERTY" from="set" to="set_field" />
+  </StructureModification>
+</history>
+

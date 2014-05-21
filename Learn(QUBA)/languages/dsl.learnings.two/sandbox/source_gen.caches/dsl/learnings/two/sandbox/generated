@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="9sdujmooa8p2fhnymq916xtqbu65ut1">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:0c58379a-fd7f-4f3a-9959-5497f7759a9e(dsl.learnings.two.generator.template.main@generator)" hash="9y62y87sym9hreucljuhtldz9bo6sw1" />
+  <common hash="djqk4xuweydgirn3st9geiomkjf7wzf" dependsOnNodes="true" />
+  <source id="477391940631260761" hash="amktcs6tegayxdx0koiw27swrzdz1r4">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:0c58379a-fd7f-4f3a-9959-5497f7759a9e(dsl.learnings.two.generator.template.main@generator)" />
+    <file name="ddlClass.java" />
+  </source>
+</dependencies>
+

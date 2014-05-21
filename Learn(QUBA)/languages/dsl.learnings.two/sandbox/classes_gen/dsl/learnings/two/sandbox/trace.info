@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:4abbfedd-0971-4106-adcd-f8d02ec8740b(dsl.learnings.two.sandbox)/477391940631260761">
+    <nodeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="11" startPosition="59" endLine="12" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1300995595506201051" fileName="ddlClass.java" startLine="12" startPosition="41" endLine="13" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="8" startPosition="0" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ddlClass#()V" />
+    <nodeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="11" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
+    <scopeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="8" startPosition="21" endLine="8" endPosition="21" />
+    <scopeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="8" startPosition="0" endLine="10" endPosition="0" />
+    <scopeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="11" startPosition="59" endLine="13" endPosition="38">
+      <varInfo nodeId="477391940631260761" varName="qb" />
+    </scopeInfo>
+    <scopeInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="11" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="477391940631260761" varName="args" />
+    </scopeInfo>
+    <unitInfo nodeId="477391940631260761" fileName="ddlClass.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="dsl.learnings.two.sandbox.ddlClass" />
+  </root>
+</debugInfo>
+

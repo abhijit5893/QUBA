@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="Learn.build.Learn" file="Learn.xml" />
+  <dependency className="Learn.build.LearnDistribution" file="LearnDistribution.xml" />
+</dependenciesRoot>
+

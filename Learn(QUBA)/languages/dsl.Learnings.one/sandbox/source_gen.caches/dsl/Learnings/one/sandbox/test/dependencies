@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="dsl.Learnings.one.sandbox.test.Begin" file="Begin.java">
+    <classNode dependClassName="Library.newlib.QuestionBank" />
+    <classNode dependClassName="Library.newlib.QuestionPaper" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.Runnable" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="javax.swing.SwingUtilities" />
+  </dependency>
+</dependenciesRoot>
+

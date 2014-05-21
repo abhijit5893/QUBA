@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-xlses2xhvdl22hzisizjxh6ol82j5q">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:66db8d49-bddb-4e66-90f4-8af4c8af999f(dsl.Learnings.one.generator.template.main@generator)" hash="9rnlrayemvuvahqrhpsjdjrnzkjjpad" />
+  <common hash="-3ocazfvehlejysgf8rv1h98283v2d21" dependsOnNodes="true" />
+  <source id="8298321964480793574" hash="-agvvpm2ugdyr400b7fi6jpf5po8kg0u">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:66db8d49-bddb-4e66-90f4-8af4c8af999f(dsl.Learnings.one.generator.template.main@generator)" />
+    <file name="Begin.java" />
+  </source>
+</dependencies>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="dl1wrqss2uz10o9qo4aq9k0b5cz6y3t">
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+  <dep model="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" hash="-1q3mkvn9kabglmfydtal4c4wis558xm" />
+  <dep model="r:7f489494-339f-481c-be61-2af4deb51551(jetbrains.mps.execution.util.behavior)" />
+  <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" hash="-9tap5q9en9vo4roh4f2gl997fk3iibj" />
+  <dep model="r:dfa74753-d7aa-4ae5-9ffe-271afde3e9bc(dsl.Learnings.one.behavior)" hash="-c37zhk9qot9yicoet1jdbhwbezguzrr" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <dep model="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
+  <common hash="8q6s21rhj6unmu054lkifxih3lpo2eu" dependsOnNodes="true">
+    <dep root="1475003049267352303" />
+    <dep root="2334151094741406037" />
+    <dep root="2334151094744355091" />
+    <dep root="2334151094745460287" />
+    <dep root="2334151094746202206" />
+    <dep root="6301226679266627850" />
+    <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" />
+    <dep model="r:7f489494-339f-481c-be61-2af4deb51551(jetbrains.mps.execution.util.behavior)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <dep model="r:dfa74753-d7aa-4ae5-9ffe-271afde3e9bc(dsl.Learnings.one.behavior)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
+    <file name="Answer_intf_BehaviorDescriptor.java" />
+    <file name="BehaviorAspectDescriptor.java" />
+    <file name="DDLBLOCK_intf_BehaviorDescriptor.java" />
+    <file name="DDL_BehaviorDescriptor.java" />
+    <file name="Delete_BehaviorDescriptor.java" />
+    <file name="EmptyLine_BehaviorDescriptor.java" />
+    <file name="Image_BehaviorDescriptor.java" />
+    <file name="InsertPicture_intf_BehaviorDescriptor.java" />
+    <file name="Insert_BehaviorDescriptor.java" />
+    <file name="MultipleChoiceAnswer_BehaviorDescriptor.java" />
+    <file name="Report_BehaviorDescriptor.java" />
+    <file name="SearchBy_BehaviorDescriptor.java" />
+    <file name="SubjectReference_BehaviorDescriptor.java" />
+    <file name="Update_BehaviorDescriptor.java" />
+    <file name="ViewAll_BehaviorDescriptor.java" />
+    <file name="WordAnswer_BehaviorDescriptor.java" />
+  </common>
+  <source id="1475003049267352303" name="Report_Behavior" hash="6v0jhk01bc0czrwl2pgf2pa9zw15nx9">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <file name="Report_Behavior.java" />
+  </source>
+  <source id="2334151094741406037" name="SearchBy_Behavior" hash="-dqhsgwo539yiq6256bhmx41pqno6uv0">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <file name="SearchBy_Behavior.java" />
+  </source>
+  <source id="2334151094744355091" name="Update_Behavior" hash="9yvrptpj1s9w3w2jdrcgcx3b1az66x3">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <file name="Update_Behavior.java" />
+  </source>
+  <source id="2334151094745460287" name="Delete_Behavior" hash="9xj11jh3v4du1v222xlpht00qdfx9hx">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <file name="Delete_Behavior.java" />
+  </source>
+  <source id="2334151094746202206" name="Insert_Behavior" hash="-cmym6qs0xksay9q613czf1f6bwkr1u3">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <file name="Insert_Behavior.java" />
+  </source>
+  <source id="6301226679266627850" name="Image_Behavior" hash="-2filmdig82noahuvv7mzxzfgti5z495">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:c1781274-f425-49d4-90f5-198f93ac4992(dsl.learnings.two.structure)" />
+    <file name="Image_Behavior.java" />
+  </source>
+</dependencies>
+

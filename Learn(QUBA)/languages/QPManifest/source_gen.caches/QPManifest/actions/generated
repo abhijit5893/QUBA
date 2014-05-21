@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="2a9hmm3352aymwuonaqmf4c3snwcwq7">
+  <dep model="r:00000000-0000-4000-0000-011c895902a9(jetbrains.mps.lang.actions.generator.baseLanguage.template.main@generator)" />
+  <common hash="2a9hmm3352aymwuonaqmf4c3snwcwq7" dependsOnNodes="true">
+    <dep root="4353184072324429599" />
+    <dep model="r:00000000-0000-4000-0000-011c895902a9(jetbrains.mps.lang.actions.generator.baseLanguage.template.main@generator)" />
+    <file name="QueriesGenerated.java" />
+    <file name="SmartActions_Generated.java" />
+  </common>
+  <source id="4353184072324429599" hash="-3a97t0bnnwo7854ilj16m7k9jgk6u04" />
+</dependencies>
+

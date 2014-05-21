@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="QPManifest.actions.QueriesGenerated" file="QueriesGenerated.java" />
+  <dependency className="QPManifest.actions.SmartActions_Generated" file="SmartActions_Generated.java" />
+</dependenciesRoot>
+

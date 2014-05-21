@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="dsl.learnings.two.sandbox.ddlClass" file="ddlClass.java">
+    <classNode dependClassName="Library.newlib.QuestionBank" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+

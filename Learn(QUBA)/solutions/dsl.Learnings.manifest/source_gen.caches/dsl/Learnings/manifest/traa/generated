@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="bzpba3mczi5cpu82m15wlkmzxvhn59c">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:67ca96fc-fbbd-4556-b377-8c23e156f298(QPManifest.generator.template.main@generator)" hash="dv7twv35me4mvpz540vkxwd9qkhjug3" />
+  <common hash="-69yrch52cstc635ol8fjoh97815depa" dependsOnNodes="true" />
+  <source id="8027482685278974553" hash="-2k65rg57h2ri3qs0iudjtmtems2q2vx">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:67ca96fc-fbbd-4556-b377-8c23e156f298(QPManifest.generator.template.main@generator)" />
+    <file name="qpclass.java" />
+  </source>
+</dependencies>
+

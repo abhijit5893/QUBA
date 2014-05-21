@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="QPManifest.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="EditManifest_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="QPManifest.behavior.EditManifest_BehaviorDescriptor" />
+  <unitInfo fileName="ViewManifest_BehaviorDescriptor.java" startLine="11" startPosition="0" endLine="28" endPosition="0" unitName="QPManifest.behavior.ViewManifest_BehaviorDescriptor" />
+  <root nodeRef="r:d89a0a7e-e25f-48b0-9b70-61710402101c(QPManifest.behavior)/1611802972951785628">
+    <nodeInfo nodeId="6301226679266628140" fileName="EditManifest_Behavior.java" startLine="15" startPosition="101" endLine="16" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6301226679266628146" fileName="EditManifest_Behavior.java" startLine="16" startPosition="41" endLine="17" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6301226679266628153" fileName="EditManifest_Behavior.java" startLine="17" startPosition="74" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6301226679266628154" fileName="EditManifest_Behavior.java" startLine="18" startPosition="0" endLine="19" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6301226679266628183" fileName="EditManifest_Behavior.java" startLine="23" startPosition="26" endLine="24" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6301226679266628192" fileName="EditManifest_Behavior.java" startLine="24" startPosition="81" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6301226679266628193" fileName="EditManifest_Behavior.java" startLine="27" startPosition="5" endLine="28" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6301226679266628201" fileName="EditManifest_Behavior.java" startLine="31" startPosition="77" endLine="32" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6301226679266628210" fileName="EditManifest_Behavior.java" startLine="32" startPosition="87" endLine="33" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6301226679266628222" fileName="EditManifest_Behavior.java" startLine="34" startPosition="32" endLine="35" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6301226679266628226" fileName="EditManifest_Behavior.java" startLine="36" startPosition="5" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6301226679266628227" fileName="EditManifest_Behavior.java" startLine="37" startPosition="0" endLine="38" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="12" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="6301226679266628161" fileName="EditManifest_Behavior.java" startLine="19" startPosition="44" endLine="21" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6301226679266628216" fileName="EditManifest_Behavior.java" startLine="33" startPosition="36" endLine="36" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6301226679266628178" fileName="EditManifest_Behavior.java" startLine="22" startPosition="35" endLine="26" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6301226679266628173" fileName="EditManifest_Behavior.java" startLine="21" startPosition="5" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="31" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getbasepath_6301226679266628197#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="15" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_pictures_6301226679266628135#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Ljava/util/List;" />
+    <scopeInfo nodeId="1611802972951786010" fileName="EditManifest_Behavior.java" startLine="12" startPosition="43" endLine="12" endPosition="43" />
+    <scopeInfo nodeId="6301226679266628162" fileName="EditManifest_Behavior.java" startLine="20" startPosition="34" endLine="20" endPosition="34" />
+    <scopeInfo nodeId="6301226679266628221" fileName="EditManifest_Behavior.java" startLine="34" startPosition="32" endLine="35" endPosition="24" />
+    <scopeInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="12" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="1611802972951785628" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6301226679266628182" fileName="EditManifest_Behavior.java" startLine="23" startPosition="26" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="6301226679266628177" fileName="EditManifest_Behavior.java" startLine="22" startPosition="35" endLine="26" endPosition="7" />
+    <scopeInfo nodeId="6301226679266628173" fileName="EditManifest_Behavior.java" startLine="21" startPosition="5" endLine="27" endPosition="5">
+      <varInfo nodeId="6301226679266628175" varName="file" />
+    </scopeInfo>
+    <scopeInfo nodeId="6301226679266628200" fileName="EditManifest_Behavior.java" startLine="31" startPosition="77" endLine="38" endPosition="16">
+      <varInfo nodeId="6301226679266628211" varName="directory" />
+      <varInfo nodeId="6301226679266628202" varName="path" />
+    </scopeInfo>
+    <scopeInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="31" startPosition="0" endLine="40" endPosition="0">
+      <varInfo nodeId="1611802972951785628" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6301226679266628139" fileName="EditManifest_Behavior.java" startLine="15" startPosition="101" endLine="28" endPosition="18">
+      <varInfo nodeId="6301226679266628147" varName="RESULT" />
+      <varInfo nodeId="6301226679266628141" varName="folder" />
+      <varInfo nodeId="6301226679266628155" varName="listOfFiles" />
+    </scopeInfo>
+    <scopeInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="15" startPosition="0" endLine="30" endPosition="0">
+      <varInfo nodeId="6301226679266628195" varName="folderString" />
+      <varInfo nodeId="1611802972951785628" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="1611802972951785628" fileName="EditManifest_Behavior.java" startLine="11" startPosition="0" endLine="41" endPosition="0" unitName="QPManifest.behavior.EditManifest_Behavior" />
+  </root>
+  <root nodeRef="r:d89a0a7e-e25f-48b0-9b70-61710402101c(QPManifest.behavior)/6582483045192465795">
+    <nodeInfo nodeId="8027482685278065701" fileName="ViewManifest_Behavior.java" startLine="9" startPosition="43" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="8027482685278080192" fileName="ViewManifest_Behavior.java" startLine="13" startPosition="74" endLine="14" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278081535" fileName="ViewManifest_Behavior.java" startLine="14" startPosition="38" endLine="15" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278661116" fileName="ViewManifest_Behavior.java" startLine="18" startPosition="86" endLine="19" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278661199" fileName="ViewManifest_Behavior.java" startLine="19" startPosition="38" endLine="20" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278105524" fileName="ViewManifest_Behavior.java" startLine="23" startPosition="76" endLine="24" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278105529" fileName="ViewManifest_Behavior.java" startLine="24" startPosition="38" endLine="25" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278664793" fileName="ViewManifest_Behavior.java" startLine="28" startPosition="88" endLine="29" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278664798" fileName="ViewManifest_Behavior.java" startLine="29" startPosition="38" endLine="30" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278106595" fileName="ViewManifest_Behavior.java" startLine="33" startPosition="77" endLine="34" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278106600" fileName="ViewManifest_Behavior.java" startLine="34" startPosition="38" endLine="35" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278664980" fileName="ViewManifest_Behavior.java" startLine="38" startPosition="89" endLine="39" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278664985" fileName="ViewManifest_Behavior.java" startLine="39" startPosition="38" endLine="40" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278110747" fileName="ViewManifest_Behavior.java" startLine="43" startPosition="75" endLine="44" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278110752" fileName="ViewManifest_Behavior.java" startLine="44" startPosition="38" endLine="45" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278665171" fileName="ViewManifest_Behavior.java" startLine="48" startPosition="87" endLine="49" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278665176" fileName="ViewManifest_Behavior.java" startLine="49" startPosition="38" endLine="50" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278112926" fileName="ViewManifest_Behavior.java" startLine="53" startPosition="78" endLine="54" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278112931" fileName="ViewManifest_Behavior.java" startLine="54" startPosition="38" endLine="55" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278665366" fileName="ViewManifest_Behavior.java" startLine="58" startPosition="92" endLine="59" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278665371" fileName="ViewManifest_Behavior.java" startLine="59" startPosition="38" endLine="60" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278115320" fileName="ViewManifest_Behavior.java" startLine="63" startPosition="78" endLine="64" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278115325" fileName="ViewManifest_Behavior.java" startLine="64" startPosition="38" endLine="65" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278665565" fileName="ViewManifest_Behavior.java" startLine="68" startPosition="90" endLine="69" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278665570" fileName="ViewManifest_Behavior.java" startLine="69" startPosition="38" endLine="70" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278117932" fileName="ViewManifest_Behavior.java" startLine="73" startPosition="77" endLine="74" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278117937" fileName="ViewManifest_Behavior.java" startLine="74" startPosition="38" endLine="75" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278665772" fileName="ViewManifest_Behavior.java" startLine="78" startPosition="89" endLine="79" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278665777" fileName="ViewManifest_Behavior.java" startLine="79" startPosition="38" endLine="80" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278119442" fileName="ViewManifest_Behavior.java" startLine="83" startPosition="77" endLine="84" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278119447" fileName="ViewManifest_Behavior.java" startLine="84" startPosition="38" endLine="85" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278665979" fileName="ViewManifest_Behavior.java" startLine="88" startPosition="89" endLine="89" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278665984" fileName="ViewManifest_Behavior.java" startLine="89" startPosition="38" endLine="90" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8027482685278122481" fileName="ViewManifest_Behavior.java" startLine="93" startPosition="81" endLine="94" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278122486" fileName="ViewManifest_Behavior.java" startLine="94" startPosition="38" endLine="95" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8027482685278666194" fileName="ViewManifest_Behavior.java" startLine="98" startPosition="93" endLine="99" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8027482685278666199" fileName="ViewManifest_Behavior.java" startLine="99" startPosition="38" endLine="100" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="9" startPosition="0" endLine="12" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getTitle_6582483045192465798#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setTitle_6582483045192466291#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getSubject_6582483045192466790#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setSubject_6582483045192467224#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getKeywords_6582483045192467596#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setKeywords_6582483045193074996#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getAuthor_6582483045193075131#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setAuthor_6582483045193075137#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="53" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getInstition_6582483045193075764#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="58" startPosition="0" endLine="62" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setInstitution_6582483045193075770#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="63" startPosition="0" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getExamTitle_6582483045193076645#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="68" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setExamTitle_6582483045193076651#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="73" startPosition="0" endLine="77" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getDuration_6582483045193077341#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="78" startPosition="0" endLine="82" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setDuration_6582483045193077347#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="83" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getMaxMarks_6582483045193078014#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="88" startPosition="0" endLine="92" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setMaxMarks_6582483045193078020#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="93" startPosition="0" endLine="97" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_getInstructions_6582483045193078432#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="98" startPosition="0" endLine="102" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_setInstructions_6582483045193078438#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)V" />
+    <scopeInfo nodeId="6582483045192465797" fileName="ViewManifest_Behavior.java" startLine="9" startPosition="43" endLine="10" endPosition="0" />
+    <scopeInfo nodeId="6582483045192465801" fileName="ViewManifest_Behavior.java" startLine="13" startPosition="74" endLine="15" endPosition="34">
+      <varInfo nodeId="8027482685278080193" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192466294" fileName="ViewManifest_Behavior.java" startLine="18" startPosition="86" endLine="20" endPosition="31">
+      <varInfo nodeId="8027482685278661117" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192466793" fileName="ViewManifest_Behavior.java" startLine="23" startPosition="76" endLine="25" endPosition="36">
+      <varInfo nodeId="8027482685278105525" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192467227" fileName="ViewManifest_Behavior.java" startLine="28" startPosition="88" endLine="30" endPosition="33">
+      <varInfo nodeId="8027482685278664794" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192467599" fileName="ViewManifest_Behavior.java" startLine="33" startPosition="77" endLine="35" endPosition="37">
+      <varInfo nodeId="8027482685278106596" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193074999" fileName="ViewManifest_Behavior.java" startLine="38" startPosition="89" endLine="40" endPosition="34">
+      <varInfo nodeId="8027482685278664981" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193075134" fileName="ViewManifest_Behavior.java" startLine="43" startPosition="75" endLine="45" endPosition="35">
+      <varInfo nodeId="8027482685278110748" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193075140" fileName="ViewManifest_Behavior.java" startLine="48" startPosition="87" endLine="50" endPosition="32">
+      <varInfo nodeId="8027482685278665172" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193075767" fileName="ViewManifest_Behavior.java" startLine="53" startPosition="78" endLine="55" endPosition="36">
+      <varInfo nodeId="8027482685278112927" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193075775" fileName="ViewManifest_Behavior.java" startLine="58" startPosition="92" endLine="60" endPosition="33">
+      <varInfo nodeId="8027482685278665367" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193076648" fileName="ViewManifest_Behavior.java" startLine="63" startPosition="78" endLine="65" endPosition="37">
+      <varInfo nodeId="8027482685278115321" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193076656" fileName="ViewManifest_Behavior.java" startLine="68" startPosition="90" endLine="70" endPosition="34">
+      <varInfo nodeId="8027482685278665566" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193077344" fileName="ViewManifest_Behavior.java" startLine="73" startPosition="77" endLine="75" endPosition="33">
+      <varInfo nodeId="8027482685278117933" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193077352" fileName="ViewManifest_Behavior.java" startLine="78" startPosition="89" endLine="80" endPosition="30">
+      <varInfo nodeId="8027482685278665773" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193078017" fileName="ViewManifest_Behavior.java" startLine="83" startPosition="77" endLine="85" endPosition="37">
+      <varInfo nodeId="8027482685278119443" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193078025" fileName="ViewManifest_Behavior.java" startLine="88" startPosition="89" endLine="90" endPosition="34">
+      <varInfo nodeId="8027482685278665980" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193078435" fileName="ViewManifest_Behavior.java" startLine="93" startPosition="81" endLine="95" endPosition="41">
+      <varInfo nodeId="8027482685278122482" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045193078443" fileName="ViewManifest_Behavior.java" startLine="98" startPosition="93" endLine="100" endPosition="38">
+      <varInfo nodeId="8027482685278666195" varName="qpm" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="9" startPosition="0" endLine="12" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="13" startPosition="0" endLine="17" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="18" startPosition="0" endLine="22" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193075452" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="23" startPosition="0" endLine="27" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="28" startPosition="0" endLine="32" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193075488" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="33" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="38" startPosition="0" endLine="42" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193075502" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="43" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="48" startPosition="0" endLine="52" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193075516" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="53" startPosition="0" endLine="57" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="58" startPosition="0" endLine="62" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193075771" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="63" startPosition="0" endLine="67" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="68" startPosition="0" endLine="72" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193076652" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="73" startPosition="0" endLine="77" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="78" startPosition="0" endLine="82" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193077348" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="83" startPosition="0" endLine="87" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="88" startPosition="0" endLine="92" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193078021" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="93" startPosition="0" endLine="97" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="98" startPosition="0" endLine="102" endPosition="0">
+      <varInfo nodeId="6582483045192465795" varName="thisNode" />
+      <varInfo nodeId="6582483045193078439" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="6582483045192465795" fileName="ViewManifest_Behavior.java" startLine="8" startPosition="0" endLine="103" endPosition="0" unitName="QPManifest.behavior.ViewManifest_Behavior" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="-1" />
+    </dependencies>
+    <rename id="5705.7011501207750738636" type="CONCEPT" from="StringList" to="StringName" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="0" />
+    </dependencies>
+    <rename id="5705.7011501207750738688" type="PROPERTY" from="list" to="string" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="1" />
+    </dependencies>
+    <rename id="5705.7011501207750749197" type="PROPERTY" from="stringLiteral" to="StringLiteral" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="2" />
+    </dependencies>
+    <rename id="5705.7011501207750792946" type="CHILD" from="Empty" to="newLine" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="3" />
+    </dependencies>
+    <rename id="5705.7011501207750792946" type="CHILD" from="newLine" to="e" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="4" />
+    </dependencies>
+    <rename id="5705.2879066684744776023" type="PROPERTY" from="mark" to="positive_mark" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="5705" modelUID="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" version="5" />
+    </dependencies>
+    <rename id="5705.2879066684744775866" type="CONCEPT" from="M" to="Mark" />
+  </StructureModification>
+</history>
+

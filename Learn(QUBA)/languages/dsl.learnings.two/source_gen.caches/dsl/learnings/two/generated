@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="3vvwu0x0o8c5j618uzlmrykyhci8kkq">
+  <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+  <dep model="r:18be14ae-92ec-49d0-8eb6-fff7c5d15eea(dsl.learnings.two.editor)" hash="8usz3n5skms1xpnax4iv617xiakoeva" />
+  <dep model="r:cd779035-4b5c-421b-ac22-3adf6d17a362(dsl.learnings.two.typesystem)" hash="-c89t8z0ubcbbfp8fcixuo5qaa394fol" />
+  <common dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+    <dep model="r:18be14ae-92ec-49d0-8eb6-fff7c5d15eea(dsl.learnings.two.editor)" />
+    <dep model="r:cd779035-4b5c-421b-ac22-3adf6d17a362(dsl.learnings.two.typesystem)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+

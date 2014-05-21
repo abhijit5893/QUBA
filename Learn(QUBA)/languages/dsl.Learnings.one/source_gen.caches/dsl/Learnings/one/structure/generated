@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-43bnbhghqy7jpt75umv5l6s5t7w1fvy">
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <dep model="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
+  <common hash="bkn7fq6fi67r1um2vtnfhzxn6auni2r" dependsOnNodes="true">
+    <dep root="196434024752135315" />
+    <dep root="196434024752270031" />
+    <dep root="196434024752270116" />
+    <dep root="196434024752330310" />
+    <dep root="2879066684744727596" />
+    <dep root="2879066684744740113" />
+    <dep root="2879066684744775866" />
+    <dep root="2879066684745081595" />
+    <dep root="4469022478642219250" />
+    <dep root="4469022478642251436" />
+    <dep root="4469022478642334552" />
+    <dep root="4903500976597059247" />
+    <dep root="4903500976597376668" />
+    <dep root="4903500976599102678" />
+    <dep root="4903500976600425092" />
+    <dep root="6401367739172200691" />
+    <dep root="6413403849111792248" />
+    <dep root="6413403849111862855" />
+    <dep root="7011501207750681067" />
+    <dep root="7011501207750681120" />
+    <dep root="7011501207750681128" />
+    <dep root="7011501207750681129" />
+    <dep root="7011501207750738636" />
+    <dep root="7011501207750792903" />
+    <dep root="7011501207750792941" />
+    <dep root="7011501207750792945" />
+    <dep root="7011501207750806418" />
+    <dep root="7011501207750941293" />
+    <dep root="7751232820940528136" />
+    <dep root="7751232820940537562" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="7011501207750681067" name="Begin" hash="dmrwwb1noaqxtn9zoch9vovvo0hzeyg" />
+  <source id="7011501207750681120" name="CommandList" hash="7q144diw8mqg2l42umid7dz97ddvznf" />
+  <source id="7011501207750681128" name="EmptyLine" hash="c560cw09n3fa6lao0fg3apw5z7qkggl" />
+  <source id="7011501207750681129" name="CommentLine" hash="-b34nsjqptepklh99n6em6qjon2wn9s8" />
+  <source id="7011501207750738636" name="StringName" hash="-14pzahvq43pw4yz8kyejkkjl2m87npx" />
+  <source id="7011501207750792903" name="SetQP" hash="eey87l8qfzfow7olctzhlu3g5ryegoy" />
+  <source id="7011501207750792941" name="Section" hash="7l3u61ryldvei0w6a32930f5l6j4kil" />
+  <source id="7011501207750792945" name="SetQPBlock" hash="5v1qrwedhm1nhmr1p74cwrfric38u42" />
+  <source id="7011501207750806418" name="EmptyLineSETQP" hash="-ay0v6wr0gd2emd8rpag4rcahlpl3t13" />
+  <source id="7011501207750941293" name="QTYPE" hash="-brtyj21nr1kuyctd1c8ge8sgwxishpa" />
+  <source id="2879066684744727596" name="SectionBlock" hash="44dhylv91w1axnlnebmm7ecrzgd3ps3" />
+  <source id="2879066684744740113" name="EmptyLineSection" hash="bym7rl9ccjlocl12l4z24if8o0wsy8v" />
+  <source id="2879066684744775866" name="Mark" hash="-e2jfz2u0h1hjlrlnfcvb798to7f6p5s" />
+  <source id="2879066684745081595" name="TYPEBlock" hash="aqnua8uex0d3qqgn3gns8bwa84liuhz" />
+  <source id="6413403849111792248" name="Subject" hash="108ao52q4ur2updi8br2i1zd4cxqbov" />
+  <source id="6413403849111862855" name="EmptyLineType" hash="-od5nf5k1dkbne6my1qy9myre9syvqc" />
+  <source id="4903500976597059247" name="RepeatQuestionPaper" hash="-a64515vkmmwmgz8b4v7lwvtznznd2or" />
+  <source id="4903500976597376668" name="Difficulty" hash="b7h2cjgtnhzszk13gpgrzwu13nsxjc9" />
+  <source id="4903500976599102678" name="RepeatType" hash="2xea0aasnx1k46ce028af376x0u9o6b" />
+  <source id="4903500976600425092" name="RepeatSubject" hash="4yvfqr2a20idp8zmjak3454u8oyx7e" />
+  <source id="4469022478642219250" name="CommentLineSetQP" hash="7r7yrapbr4f7rch3pnruyxy176ipvz6" />
+  <source id="4469022478642251436" name="CommentLineSection" hash="-2sx9jbkqznjjog5rkln6lf1isjnyi98" />
+  <source id="4469022478642334552" name="CommentLineType" hash="bw1f80m8i4xvsncfon83yqpswpxt5qg" />
+  <source id="7751232820940528136" name="SubjectList" hash="1c1pdkbx4amuumwh6m0x1kh964rtz0f" />
+  <source id="7751232820940537562" name="TypeList" hash="205qp5c03qb7pw640dtfu3jcm6hgysh" />
+  <source id="6401367739172200691" name="System_Specifics" hash="-etem2z5k51dl8gqbpmhy0ls2tfoem9z" />
+  <source id="196434024752135315" name="AbstractCommand_intf" hash="7n93aashe9hlql508z8kk570a36w23s" />
+  <source id="196434024752270031" name="AbstractSetQPCommands_intf" hash="-du9fc4zdyeh07ekzo2krve84ek0idib" />
+  <source id="196434024752270116" name="AbstractSectionCommands_intf" hash="-ewlcdk55gkt7d04tmtw0khr5m1h3d9g" />
+  <source id="196434024752330310" name="AbstractTypeCommands_intf" hash="-56aejchsqnyhzoi1ir6o30cwffma8l8" />
+</dependencies>
+

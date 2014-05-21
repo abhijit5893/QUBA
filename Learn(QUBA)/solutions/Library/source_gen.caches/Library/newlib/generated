@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="9bnjtsz4p1txdb4apaoaenk4z2n6glf">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <common hash="-43w51h142yz69kbm4rzxdmtws5972x7" dependsOnNodes="true" />
+  <source id="1102350216411195494" name="Question" hash="-8rpqn4xskxyfxd1nbanssxi65d548te">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="Question.java" />
+  </source>
+  <source id="1102350216411199432" name="Answer" hash="9nddly4b2ywrjybmkydxesi9151iurw">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="Answer.java" />
+  </source>
+  <source id="1102350216411302830" name="QuestionBank" hash="-2q22yvphag10tcwlxrk07x1icnahlqc">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="QuestionBank.java" />
+  </source>
+  <source id="1102350216411340694" name="XmlMediator" hash="-b3eouk72qo1k86fkwexznwmrzx14pdc">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="XmlMediator.java" />
+  </source>
+  <source id="1102350216415206707" name="QuestionPaper" hash="3ohk19qj5moz03twxwaemoik41tnn6f">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="QuestionPaper.java" />
+  </source>
+  <source id="7751232820941267151" name="MultipleChoiceAnswer" hash="dzkhn1b2sw3zr31z8xq1gcszw13slbi">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="MultipleChoiceAnswer.java" />
+  </source>
+  <source id="612525445632429513" name="qpaper" hash="-6l5ov7edq03vkzjf0ag3ck7g98z570o">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="qpaper.java" />
+  </source>
+  <source id="6108455378635336129" name="WordAnswer" hash="-euey9l7ud74tqow542mz46p46u2savq">
+    <file name="WordAnswer.java" />
+  </source>
+  <source id="6396140610410789479" name="manifest" hash="6m48rrqmfd8pkjo12eyhqfrmvhmvizh">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="manifest.java" />
+  </source>
+  <source id="8027482685277407076" name="qpManifest" hash="-5t517yjgly0ck2fdxd13vepodfrg1sk">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="qpManifest.java" />
+  </source>
+</dependencies>
+

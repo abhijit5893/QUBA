@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="k42xn890tev0169obvv9j19uyb0bsn">
+  <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+  <dep model="r:a46d57d7-9d14-4a91-9689-170fcbbf10f2(QPManifest.editor)" hash="-e8cyg8f9tthqydc5eeaddqiwcj7ob9z" />
+  <dep model="r:dcba1bb4-d40e-4bb6-bc05-ff41504f0746(QPManifest.typesystem)" hash="9ys061xoaprfeexdovjvbsg3y96ds21" />
+  <common dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+    <dep model="r:a46d57d7-9d14-4a91-9689-170fcbbf10f2(QPManifest.editor)" />
+    <dep model="r:dcba1bb4-d40e-4bb6-bc05-ff41504f0746(QPManifest.typesystem)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+

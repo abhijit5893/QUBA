@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="dsl.learnings.two.behavior.Answer_intf_BehaviorDescriptor" file="Answer_intf_BehaviorDescriptor.java" />
+  <dependency className="dsl.learnings.two.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDL_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.Delete_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.EmptyLine_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.Image_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.Insert_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.MultipleChoiceAnswer_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.Report_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.SearchBy_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.SubjectReference_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.Update_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.ViewAll_BehaviorDescriptor" />
+    <classNode dependClassName="dsl.learnings.two.behavior.WordAnswer_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" file="DDLBLOCK_intf_BehaviorDescriptor.java" />
+  <dependency className="dsl.learnings.two.behavior.DDL_BehaviorDescriptor" file="DDL_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.Learnings.one.behavior.AbstractCommand_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.execution.util.behavior.IMainClass_Behavior" />
+    <classNode dependClassName="jetbrains.mps.execution.util.behavior.IMainClass_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Delete_Behavior" file="Delete_Behavior.java">
+    <classNode dependClassName="Library.newlib.QuestionBank" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.backports.LinkedList" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Delete_BehaviorDescriptor" file="Delete_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.EmptyLine_BehaviorDescriptor" file="EmptyLine_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Image_Behavior" file="Image_Behavior.java">
+    <classNode dependClassName="java.io.File" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.backports.LinkedList" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Image_BehaviorDescriptor" file="Image_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.InsertPicture_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.InsertPicture_intf_BehaviorDescriptor" file="InsertPicture_intf_BehaviorDescriptor.java" />
+  <dependency className="dsl.learnings.two.behavior.Insert_Behavior" file="Insert_Behavior.java">
+    <classNode dependClassName="Library.newlib.QuestionBank" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.backports.LinkedList" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Insert_BehaviorDescriptor" file="Insert_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.MultipleChoiceAnswer_BehaviorDescriptor" file="MultipleChoiceAnswer_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.Answer_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Report_Behavior" file="Report_Behavior.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.backports.LinkedList" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Report_BehaviorDescriptor" file="Report_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.SearchBy_Behavior" file="SearchBy_Behavior.java">
+    <classNode dependClassName="Library.newlib.QuestionBank" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.backports.LinkedList" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.SearchBy_BehaviorDescriptor" file="SearchBy_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.SubjectReference_BehaviorDescriptor" file="SubjectReference_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Update_Behavior" file="Update_Behavior.java">
+    <classNode dependClassName="Library.newlib.QuestionBank" />
+    <classNode dependClassName="java.io.File" />
+    <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.List" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.ListSequence" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.backports.LinkedList" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.Update_BehaviorDescriptor" file="Update_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.ViewAll_BehaviorDescriptor" file="ViewAll_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.DDLBLOCK_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="dsl.learnings.two.behavior.WordAnswer_BehaviorDescriptor" file="WordAnswer_BehaviorDescriptor.java">
+    <classNode dependClassName="dsl.learnings.two.behavior.Answer_intf_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

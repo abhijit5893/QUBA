@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-9tap5q9en9vo4roh4f2gl997fk3iibj">
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" hash="-1q3mkvn9kabglmfydtal4c4wis558xm" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <dep model="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
+  <common hash="990bf2zp882blrtgd5bfpnshhftlmhd" dependsOnNodes="true">
+    <dep root="1102350216408925207" />
+    <dep root="196434024752453719" />
+    <dep root="196434024752454282" />
+    <dep root="2879066684745170211" />
+    <dep root="2879066684745170876" />
+    <dep root="2879066684745170881" />
+    <dep root="2879066684745172174" />
+    <dep root="2879066684745186346" />
+    <dep root="2879066684745217910" />
+    <dep root="4903500976601398169" />
+    <dep root="4982939136950874919" />
+    <dep root="5201233245347013663" />
+    <dep root="6301226679266522023" />
+    <dep root="6301226679266842776" />
+    <dep root="8604482642922115996" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959032f(jetbrains.mps.baseLanguage.collections.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:383fb5e6-6ee7-46da-b277-1b3a20f736b3(dsl.Learnings.one.structure)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:fa713d69-08ea-4732-b1f2-cb07f9e103ef(jetbrains.mps.execution.util.structure)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="2879066684745170211" name="DDL" hash="-eeo5vzxme6a9qbkj4zzs1wzpql3uk9n" />
+  <source id="2879066684745170876" name="Insert" hash="39dk27fe9o9y2me7e42nz6s78js8jp" />
+  <source id="2879066684745170881" name="Update" hash="-b1fydlzzd134ko6xacd1bs4d2lshdxf" />
+  <source id="2879066684745172174" name="ViewAll" hash="-b242kfuy9rodfacumj12bu7n0kq6df8" />
+  <source id="2879066684745186346" name="EmptyLine" hash="-cjn5rfymlzycvpt1emvoum1k25xjymh" />
+  <source id="2879066684745217910" name="Delete" hash="5o69wn7s7mj583oqitau5pouhwhl39a" />
+  <source id="5201233245347013663" name="SearchBy" hash="-1w68jgesju0llb2fxoxmxy2mtq4oa3r" />
+  <source id="1102350216408925207" name="WordAnswer" hash="bd0i1xdogrtdud7ce25vi8rqibmbowt" />
+  <source id="4903500976601398169" name="Report" hash="-e7j8tlh8ntvrvj9t4ol9kyzgrqgbgxo" />
+  <source id="4982939136950874919" name="SubjectReference" hash="-cn4tgdknq6wsbbqkttkmr17gaa7pumf" />
+  <source id="8604482642922115996" name="MultipleChoiceAnswer" hash="-brijtimu7zcyklpn79nehvlazpkrclg" />
+  <source id="196434024752453719" name="DDLBLOCK_intf" hash="-ae7nlppwgsu7plh75qaj9172cnnfh5i" />
+  <source id="196434024752454282" name="Answer_intf" hash="9fplzsswotbjnzt8x5uxrygcc9s90zs" />
+  <source id="6301226679266522023" name="Image" hash="-4yblppml46rft57or96m179kn4r9xsq" />
+  <source id="6301226679266842776" name="InsertPicture_intf" hash="-e438ibcr7139dog3nnjzpvob93h8mc3" />
+</dependencies>
+
