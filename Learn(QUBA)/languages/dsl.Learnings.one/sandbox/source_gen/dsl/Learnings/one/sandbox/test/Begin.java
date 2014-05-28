@@ -33,17 +33,18 @@ public class Begin {
           String[] subjects;
           String[] difficulties;
 
-          QuestionPaper qp_a0;
-          qp_code = "A";
-          qp_a0 = new QuestionPaper(qp_code);
-          System.out.println("Section" + "A");
-          String type_a0a0a0 = "Word";
+          // view 
+          QuestionPaper qp_b0;
+          qp_code = "B";
+          qp_b0 = new QuestionPaper(qp_code);
+          System.out.println("Section" + "B");
+          String type_a0a0b0 = "Word";
           boolean show_choices = false;
-          String subject_a0a0a0a0 = "a";
-          qp_a0.prepare(type_a0a0a0, subject_a0a0a0a0, "1", "1", false);
-          qp_a0.getmarks(0, 0);
-          qp_a0.pushSection("A");
-          qp_a0.showPaper(qp_a0.code);
+          String subject_a0a0a0b0 = "a";
+          qp_b0.prepare(type_a0a0b0, subject_a0a0a0b0, "1", "1", false);
+          qp_b0.getmarks(0, 0);
+          qp_b0.pushSection("B");
+          qp_b0.showPaper(qp_b0.code);
 
         } catch (Exception e) {
         }
